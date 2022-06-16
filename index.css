@@ -1,0 +1,29 @@
+body{
+    width: 99%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(https://st.depositphotos.com/1435765/1406/v/950/depositphotos_14068114-stock-illustration-pizza-seamless-pattern.jpg);
+}
+
+.contenedor-principal{
+    width: 60%;
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgba(128, 128, 128, 0.359);
+}
+
+img{
+    width: 45%;
+    height: 45%;
+}
+
+h1{
+    font-size: 2rem;
+}
